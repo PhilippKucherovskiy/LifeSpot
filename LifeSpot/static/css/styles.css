@@ -32,3 +32,18 @@ footer p {
 body :not(.sidebar) {
     background-color: #f1f1f1;
 }
+
+    
+.review-container, .review-button {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.review-text {
+    display: block;
+    margin-top: 0.5em;
+    padding-left: 1%;
+    padding-top: 1%;
+}

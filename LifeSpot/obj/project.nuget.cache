@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "29tEk/pWQizPLpUjt0gu0OiM/PVz4mRg2C6OWjRqgf8sfCqx6D/1q+XniF21w/yuGcrPBqwI4JSN+MmwGBfBdA==",
+  "dgSpecHash": "SC59GiE4JECogCQCXCBbdQqBoNCiWQ9Iy6bD6/LJG0JxI2i/AE5iTI2EEVwyHeJ5fqzkUrmpdAhKUia1tQicKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\LifeSpot\\LifeSpot\\LifeSpot.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\LifeSpot2\\LifeSpot\\LifeSpot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
